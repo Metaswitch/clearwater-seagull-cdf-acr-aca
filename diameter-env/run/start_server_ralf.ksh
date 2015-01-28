@@ -18,4 +18,4 @@
 #
 #
 export LD_LIBRARY_PATH=/usr/share/clearwater/bin
-/usr/share/clearwater/bin/seagull -conf /usr/share/clearwater/exe-env/diameter-env/config/ralf.server.xml -dico /usr/share/clearwater/exe-env/diameter-env/config/ralf_base_rf.xml -scen /usr/share/clearwater/exe-env/diameter-env/scenario/acr-aca.server.xml -log /usr/share/clearwater/exe-env/diameter-env/logs/acr-aca.server.log -llevel ET
+/usr/share/clearwater/bin/seagull -conf /usr/share/clearwater/exe-env/diameter-env/config/conf.server.xml -dico /usr/share/clearwater/exe-env/diameter-env/config/base_rf.xml -scen /usr/share/clearwater/exe-env/diameter-env/scenario/acr-aca.server.xml -log /usr/share/clearwater/exe-env/diameter-env/logs/acr-aca.server.log -llevel ET

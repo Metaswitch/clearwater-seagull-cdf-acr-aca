@@ -1,4 +1,4 @@
-# Makefile for clearwater-seagull-cdf package
+# Makefile for clearwater-seagull-cdf-acr-aca package
 
 # This should come first so make does the right thing by default
 all: deb
